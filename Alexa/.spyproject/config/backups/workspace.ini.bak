@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['P4_C0\\T2_C0.py', 'P5_C1\\T2_C1.py', 'P6_C2\\T1_C2.py', 'P7_C3\\T2_C3.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
