@@ -7,4 +7,4 @@ P2 -Classification of the dataset
 
 P3 -Application of the classification on the whole dataset
 
-P4 -Analysis by category
+P4~P7 -Analysis by category
